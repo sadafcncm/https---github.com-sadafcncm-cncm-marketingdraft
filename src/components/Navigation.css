@@ -1,0 +1,311 @@
+.nav-bar {
+
+    position: relative;
+    max-width: 1440px;
+    height: 96px;
+    
+    padding: 24px 100px;
+    border-bottom: 1px;
+    
+  
+    
+
+   /* border-bottom: 1px solid rgba(255, 255, 255, 0.16);
+   
+
+    /* Navigation Bar */
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+  
+    gap: 130px;
+
+  
+
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    z-index: 1;
+
+   
+
+ 
+
+    
+
+ 
+    
+
+
+}
+
+.nav-title{
+    width: 113px;
+    height: 32px;
+   
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    
+}
+
+
+/* Logo */
+.nav-logo{
+  
+    width: 32px;
+    height: 32px;
+    margin-left:5px;
+
+}
+
+
+.vector{
+    background-image: url(../images/Logo.svg);
+
+    width: 20.1px;
+    height: 28px;
+    top: 2px;
+    left: 6px;
+    padding: 0.05px 0px 0px 0px;
+    gap: 10px;
+    opacity: 0px;
+   
+}
+
+.nav-company{
+
+    width: 71px;
+    height: 19px;
+    gap: 10px;
+    opacity: 0px;
+
+
+    
+
+}
+
+.nav-company .name{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 19.2px;
+    letter-spacing: -0.03em;
+    text-align: center;
+    text-transform: none;
+
+}
+
+
+
+
+
+
+
+
+.nav-menu{
+
+    display: inline-flex;
+       
+    width: 730px;
+    height: 27px;
+    gap: 40px;
+    opacity: 0px;
+    
+    align-items: center;
+
+
+
+   
+
+
+    
+    
+}
+
+
+
+
+.nav-menu .products{
+    width: 127px;
+    height: 27px;
+    gap: 6px;
+    opacity: 0px;
+
+    font-family:'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: -0.02em;
+    text-align: justified;
+
+    color:rgb(0, 0, 0);
+    text-transform: none;
+    white-space: nowrap;
+
+
+}
+
+.nav-menu .solutions{
+
+    width: 111px;
+    height: 27px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: -0.02em;
+    text-align: justified;
+    justify-content: center;
+    align-items: center;
+
+    color:rgb(0, 0, 0);
+    text-transform: none;
+    white-space: nowrap;
+
+
+
+}
+
+.nav-menu .frameworks{
+    width: 101px;
+    height: 27px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family:'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: -0.02em;
+    text-align: justified;
+
+    color:rgb(0, 0, 0);
+    text-transform: none;
+    
+
+}
+
+.nav-menu .testimonials{
+    width: 102px;
+    height: 27px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family:'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: -0.02em;
+    text-align: justified;
+
+
+    color:rgb(0, 0, 0);
+    text-transform: none;
+        
+
+}
+
+.nav-menu .blogs{
+    width: 44px;
+    height: 27px;
+    gap: 6px;
+    opacity: 0px;
+
+
+    font-family:'Open Sans', sans-serif;
+
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: -0.02em;
+    text-align: justified;
+
+
+    color:rgb(0, 0, 0);
+    text-transform: none;
+        
+
+}
+
+
+.nav-menu .faqs{
+    width: 45px;
+    height: 27px;
+    gap: 0px;
+    opacity: 0px;
+
+
+
+    font-family:'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: -0.02em;
+    text-align: justified;
+
+
+
+    color:rgb(0, 0, 0);
+    text-transform: none;
+        
+
+}
+
+.nav-contact{
+    display: flex;
+  
+    
+}
+
+.nav-contact .btn{
+
+    width: 132px;
+    height: 48px;
+    
+    gap: 32px;
+    padding: 12px 24px 12px 24px;
+ 
+    border-radius: 8px 8px 8px 8px;
+    opacity: 0px;
+    background-color: #14CC60;
+   
+
+
+}
+.nav-contact .btn .contact-text{
+
+    width: 84px;
+    height: 24px;
+
+    opacity: 0px;
+
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: -0.01em;
+    text-align: center;
+    color: white;
+    text-transform: none;
+
+
+}
+
+
+
+

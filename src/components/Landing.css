@@ -1,0 +1,231 @@
+body{
+
+    width: 1,440px;
+   
+    height: 912px;
+
+    gap: 100px;
+    
+
+    opacity: 0px;
+    
+  
+
+}
+
+
+.landing-intro{
+   
+    width: 1,240px;
+    height: 392px;
+   
+    gap: 64px;
+    opacity: 0px;
+    margin-top: -45px;
+    padding: 100px;
+
+/* Frame 427320579 */
+
+/* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+
+
+
+
+
+/* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+    
+
+}
+.landing-intro .landing-intro-text{
+
+  /* Focus on Growth, Not Paperwork. Automate your Security & Compliance with CNCM */
+
+    width: 941px;
+    height: 268px;
+    gap: 32px;
+
+h4{
+    width: 941px;
+    height: 128px;
+
+}
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 64px;
+    /* or 160% */
+    text-align: justify;
+    letter-spacing: -0.01em;
+
+/* Gray/900 */
+
+
+
+.green-text{
+    color: rgba(51, 185, 56, 1);
+
+}
+
+
+}
+
+.landing-intro .landing-intro-text .text-subtitle{
+
+    width: 941px;
+    height: 108px;
+
+
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: -0.02em;
+    text-align: justified;
+    color: rgba(102, 112, 133, 1);
+    margin-top: -30px;
+
+
+
+
+
+}
+
+.landing-intro-buttons{
+    width: 451px;
+    height: 60px;
+    gap: 32px;
+    margin-top: 40px;
+    display: flex;
+  
+
+}
+
+.landing-intro-buttons .nav-contact .btn{
+    width: 174px;
+    height: 60px;
+    gap: 32px;
+    opacity: 0px;
+  
+
+  
+    
+
+}
+
+.landing-intro-buttons .nav-contact .btn .contact-text{
+    
+
+  
+    width: 126px;
+    height: 36px;
+    gap: 0px;
+    opacity: 0px;
+
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: -0.02em;
+    text-align: center;
+
+
+
+}
+
+.landing-intro-buttons .watch-demo{
+
+    width: 245px;
+    height: 60px;
+    gap: 32px;
+
+
+}
+
+.landing-intro-buttons .watch-demo .btn{
+
+    width: 245px;
+    height: 60px;
+    padding: 12px 24px;
+    gap: 24px;
+    border-radius: 8px 8px 8px 8px;
+
+    opacity: 0px;
+
+    border: 1px solid rgba(71, 84, 103, 1);
+
+    .watch-demo-text{
+        width: 149px;
+        height: 36px;
+        gap: 0px;
+        opacity: 0px;
+        color: rgba(71, 84, 103, 1);
+        font-family: 'Open Sans', sans-serif;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 36px;
+        letter-spacing: -0.01em;
+        text-align: center;
+        text-transform: none;
+        white-space: nowrap;
+
+    }
+
+
+
+
+
+    
+
+}
+.play-circle{
+    background-image: url(../images/play-circle.svg);
+    width: 24px;
+    height: 24px;
+    top: 1px;
+    left: 1px;
+    gap: 0px;
+    opacity: 0px;
+
+
+
+}
+
+
+
+.example-audit{
+    background-image: url(../images/ExampleAudit.svg);
+    
+    
+    width: 1000px;
+    height: 323px;
+    background-position: center -15px; 
+    gap: 0px;
+    display: flex;
+    justify-items: center;
+
+    border-radius: 10px 10px 0px 0px;
+    
+
+    box-shadow: 0px 10px 32px -4px rgba(24, 39, 75, 0.1),
+             0px 6px 14px -6px rgba(24, 39, 75, 0.12);
+    
+    margin-top: 40px;
+    margin-left: 220px;
+
+
+ 
+
+
+}
+
